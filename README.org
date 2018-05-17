@@ -18,7 +18,7 @@ Notes
 
 #+END_SRC
 
-**** You need more than rtorrent
+**** You want more than just only rtorrent
 
 You should rewrite the Dockerfile or entrypoint.sh for your purpose
 
