@@ -10,3 +10,4 @@ COPY --from=builder /autovpn/app .
 ADD entrypoint.sh /
 WORKDIR /data
 ENTRYPOINT ["/entrypoint.sh"]
+CMD ["sh"]
