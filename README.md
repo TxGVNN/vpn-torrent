@@ -1,4 +1,4 @@
-# vpn-torrent
+# vpn-torrent [![](https://images.microbadger.com/badges/image/txgvnn/vpn-torrent.svg)](https://microbadger.com/images/txgvnn/vpn-torrent)
 
 Sometimes, I need to download some resources via torrent, and I usually use VPN connection for this, but I don't want to connect directly VPN in the host system.
 
